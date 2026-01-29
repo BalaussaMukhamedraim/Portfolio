@@ -1,6 +1,6 @@
 # Portfolio
 
-This project includes five interactive Tableau dashboards visualizing key data trends for Company from 2020 to 2024. The analysis covers various aspects of the company's performance, providing insights based on data-driven visualizations.
+This project includes five interactive Tableau dashboards visualizing key data trends for Company from 2020 to 2023. The analysis covers various aspects of the company's performance, providing insights based on data-driven visualizations.
 
 ## 📊 Dashboards  
 The dashboards focus on:  
